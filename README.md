@@ -60,7 +60,7 @@
 
 <h1 align="center"> Links & Social Media 🔍</h1>
 
-[![Mail](https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=GMAIL&logoColor=FFFFFF)](ashigorwrld@gmail.com)
+[![Mail](https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=GMAIL&logoColor=FFFFFF)](mailto:ashigorwrld@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-28A0DC?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/RoggyAsh)
 [![Instagram](https://img.shields.io/badge/-Instagram-D24197?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/igor_hw/)
 [![Spotify](https://img.shields.io/badge/-Spotify-20D762?style=for-the-badge&logo=Spotify&logoColor=000000)](https://open.spotify.com/user/8c5yeggw3oegh9fgff7io2x2i)
