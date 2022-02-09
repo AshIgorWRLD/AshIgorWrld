@@ -14,20 +14,51 @@
 
 <h1 align="center"> Technology stack 🏗️	</h1>
 
-![Java](https://img.shields.io/badge/-Java-D0D8F7?style=for-the-badge&logo=Java&logoColor=EA2D2F)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-Postgre_SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/-GitLab-554488?style=for-the-badge&logo=GitLab&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-7F88A3?style=for-the-badge&logo=Linux&logoColor=000000)
-![Json](https://img.shields.io/badge/-Json-0070C0?style=for-the-badge&logo=Json&logoColor=000000)
-![Excel](https://img.shields.io/badge/-Excel-007743?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/-C++-356094?style=for-the-badge&logo=C&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=Git&logoColor=F05134)
-![MicrosoftTeams](https://img.shields.io/badge/-Microsoft_Teams-6E76D4?style=for-the-badge&logo=MicrosoftTeams&logoColor=FFFFFF)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=001E36)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0D56C9?style=for-the-badge&logo=Bitbucket&logoColor=FBFFFF)
-![Xd](https://img.shields.io/badge/-ADOBE_XD-FF61F6?style=for-the-badge&logo=AdobeXd&logoColor=450034)
-![IntelliJ IDEA](https://img.shields.io/badge/-Intellij_idea-BAE1FF?style=for-the-badge&logo=IntellijIdea&logoColor=000000)
-![CLion](https://img.shields.io/badge/-Clion-BAE1FF?style=for-the-badge&logo=Clion&logoColor=000000)
+### Proggramming languages
 
+![Java](https://img.shields.io/badge/-Java-D0D8F7?style=for-the-badge&logo=Java&logoColor=EA2D2F)
+![C++](https://img.shields.io/badge/-C++-356094?style=for-the-badge&logo=C&logoColor=FFFFFF)
+
+### Data bases
+
+![SQL](https://img.shields.io/badge/-Postgre_SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+![Excel](https://img.shields.io/badge/-Excel-007743?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF)
+
+### IDEs & code editors
+
+![IntelliJ IDEA](https://img.shields.io/badge/-Intellij_idea-BAE1FF?style=for-the-badge&logo=IntellijIdea&logoColor=000000)
+![DataGrip](https://img.shields.io/badge/-Data_grip-9378F4?style=for-the-badge&logo=DataGrip&logoColor=000000)
+![CLion](https://img.shields.io/badge/-Clion-24C7B5?style=for-the-badge&logo=Clion&logoColor=000000)
+![Vscode](https://img.shields.io/badge/-Vscode-2C2C32?style=for-the-badge&logo=VisualStudioCode&logoColor=008BD3)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-87BA50?style=for-the-badge&logo=AndroidStudio&logoColor=FFFFFF)
+
+### Useful tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/-GitLab-554488?style=for-the-badge&logo=GitLab&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=Git&logoColor=F05134)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0D56C9?style=for-the-badge&logo=Bitbucket&logoColor=FBFFFF)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF)
+![MicrosoftTeams](https://img.shields.io/badge/-Microsoft_Teams-6E76D4?style=for-the-badge&logo=MicrosoftTeams&logoColor=FFFFFF)
+
+### Operating systems
+![Windows](https://img.shields.io/badge/-Windows-4D82E0?style=for-the-badge&logo=Windows&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-7F88A3?style=for-the-badge&logo=Linux&logoColor=000000)
+
+### Data exchange formats
+
+![Json](https://img.shields.io/badge/-Json-0070C0?style=for-the-badge&logo=Json&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-Html5-E44D26?style=for-the-badge&logo=Html5&logoColor=FFFFFF)
+
+### Additional skills not connected with programming
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=001E36)
+![Xd](https://img.shields.io/badge/-ADOBE_XD-FF61F6?style=for-the-badge&logo=AdobeXd&logoColor=450034)
+![Ableton](https://img.shields.io/badge/-Ableton_Live-000000?style=for-the-badge&logo=AbletonLive&logoColor=FFFFFF)
+![Power Point](https://img.shields.io/badge/-power_point-CB4424?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=FFFFFF)
+![Word](https://img.shields.io/badge/-Word-2B5797?style=for-the-badge&logo=MicrosoftWord&logoColor=FFFFFF)
+
+<h1 align="center"> My GitHub stats 📝</h1>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshIgorWrld&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![AshIgorWrld GitHub stats](https://github-readme-stats.vercel.app/api?username=AshIgorWRLD&theme=tokyonight)](https://github.com/AshIgorWRLD/github-readme-stats)
