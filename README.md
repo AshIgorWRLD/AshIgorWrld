@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-![juice-wrld](https://user-images.githubusercontent.com/98206150/153143873-e8756a2f-be80-45ff-93ab-5ce1e91c4761.gif)
+<img align="right" src="https://user-images.githubusercontent.com/98206150/153143873-e8756a2f-be80-45ff-93ab-5ce1e91c4761.gif" height="100" />
