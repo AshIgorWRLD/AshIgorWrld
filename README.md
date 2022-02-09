@@ -58,7 +58,14 @@
 ![Power Point](https://img.shields.io/badge/-power_point-CB4424?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=FFFFFF)
 ![Word](https://img.shields.io/badge/-Word-2B5797?style=for-the-badge&logo=MicrosoftWord&logoColor=FFFFFF)
 
+<h1 align="center"> Links & Social Media 🔍</h1>
+
+[![Mail](https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=GMAIL&logoColor=FFFFFF)](ashigorwrld@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-28A0DC?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/RoggyAsh)
+[![Instagram](https://img.shields.io/badge/-Instagram-D24197?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/igor_hw/)
+[![Spotify](https://img.shields.io/badge/-Spotify-20D762?style=for-the-badge&logo=Spotify&logoColor=000000)](https://open.spotify.com/user/8c5yeggw3oegh9fgff7io2x2i?si=f8b7260d573c4831)
+
 <h1 align="center"> My GitHub stats 📝</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshIgorWrld&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![AshIgorWrld GitHub stats](https://github-readme-stats.vercel.app/api?username=AshIgorWRLD&theme=tokyonight)](https://github.com/AshIgorWRLD/github-readme-stats)
+[![AshIgorWRLD GitHub stats](https://github-readme-stats.vercel.app/api?username=AshIgorWRLD&theme=tokyonight)](https://github.com/AshIgorWRLD/github-readme-stats)
