@@ -4,7 +4,9 @@
 
 ### About me 💽
 
-🌊 20 y.o. Student aiming to create things that will be reflected in the souls of other people and make this world little better  
+🌊 20 y.o. student aiming to create things that will be reflected in the souls of other people and make this world little better  
+
+📚 Studying in the 3-rd year of the **Novosibirsk State University**
 
 🌱 In process of learning: **WEB**, **Neural Networks and Deep Learning**
 
@@ -12,3 +14,10 @@
 
 🎵 Keen on music, trying to make something interesting on my own
 
+### Technology stack 🏗️	
+
+<p>
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
