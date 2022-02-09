@@ -14,7 +14,7 @@
 
 <h1 align="center"> Technology stack 🏗️	</h1>
 
-### Proggramming languages
+### Programming languages
 
 ![Java](https://img.shields.io/badge/-Java-D0D8F7?style=for-the-badge&logo=Java&logoColor=EA2D2F)
 ![C++](https://img.shields.io/badge/-C++-356094?style=for-the-badge&logo=C&logoColor=FFFFFF)
