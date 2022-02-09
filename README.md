@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://user-images.githubusercontent.com/98206150/153143567-ae08feed-6df5-4775-886f-5ecce3ee5914.mp4
 
 
 
+![juice-wrld](https://user-images.githubusercontent.com/98206150/153143873-e8756a2f-be80-45ff-93ab-5ce1e91c4761.gif)
