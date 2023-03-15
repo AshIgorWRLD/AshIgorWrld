@@ -1,6 +1,6 @@
 <h1 align="center"> About me 💽 </h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/98206150/153143873-e8756a2f-be80-45ff-93ab-5ce1e91c4761.gif" height="210" />
+<img align="right" src="https://user-images.githubusercontent.com/98206150/153143873-e8756a2f-be80-45ff-93ab-5ce1e91c4761.gif" height="250" />
 
 🌍 21 y.o. developer aiming to create things that will be reflected in the souls of other people and make this world little better  
 
@@ -20,7 +20,13 @@
 
 ![Java](https://img.shields.io/badge/-Java-D0D8F7?style=for-the-badge&logo=Java&logoColor=EA2D2F)
 ![C++](https://img.shields.io/badge/-C++-356094?style=for-the-badge&logo=C&logoColor=FFFFFF)
+![Postgre SQL](https://img.shields.io/badge/-Postgre_SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
+### Frameworks
+
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Jooq](https://img.shields.io/badge/Jooq-000000?style=for-the-badge&logo=jooq&logoColor=white)
+![Jpa](https://img.shields.io/badge/Jpa-000000?style=for-the-badge&logo=jpa&logoColor=white)
 
 ### Data bases
 
@@ -37,12 +43,16 @@
 
 ### Useful tools
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/-GitLab-554488?style=for-the-badge&logo=GitLab&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=Git&logoColor=F05134)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0D56C9?style=for-the-badge&logo=Bitbucket&logoColor=FBFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF)
 ![MicrosoftTeams](https://img.shields.io/badge/-Microsoft_Teams-6E76D4?style=for-the-badge&logo=MicrosoftTeams&logoColor=FFFFFF)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/-Windows-4D82E0?style=for-the-badge&logo=Windows&logoColor=FFFFFF)
