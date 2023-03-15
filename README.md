@@ -2,13 +2,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/98206150/153143873-e8756a2f-be80-45ff-93ab-5ce1e91c4761.gif" height="210" />
 
-🌍 20 y.o. student aiming to create things that will be reflected in the souls of other people and make this world little better  
+🌍 21 y.o. developer aiming to create things that will be reflected in the souls of other people and make this world little better  
 
-📚 Studying in the 3-rd year of the **Novosibirsk State University**
+💻 More than 1 year working in "МКСКОМ" company as backend developer
 
-🌱 In process of learning: **WEB**, **Neural Networks and Deep Learning**
+📚 Studying in the 4-th year of the **Novosibirsk State University**
 
-💻 Interested in **making apps** that will bring **something new** in sphere
+🌱 In process of learning: **WEB**, **Neural Networks and Deep Learning**, **Backend**, **Databases**, **Deployment**
+
+🚀 Interested in **making apps** that will bring **something new** in sphere
 
 🎵 Keen on music, trying to make interesting things on my own
 
@@ -18,6 +20,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-D0D8F7?style=for-the-badge&logo=Java&logoColor=EA2D2F)
 ![C++](https://img.shields.io/badge/-C++-356094?style=for-the-badge&logo=C&logoColor=FFFFFF)
+
 
 ### Data bases
 
